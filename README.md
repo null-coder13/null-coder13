@@ -1,2 +1,3 @@
 - 🔭 I’m currently working on ... Advent of Code problems implemented with C#, Boba Tracker for my dog
 - 🌱 I’m currently learning ... .NET and Angular
+- School GitHub account ... [tom-1313](https://github.com/tom-1313)
